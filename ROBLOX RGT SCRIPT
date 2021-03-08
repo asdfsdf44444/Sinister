@@ -39,7 +39,7 @@ AutoPlayPiano.Text = "Auto Play Piano"
 AutoPlayPiano.TextColor3 = Color3.fromRGB(0, 0, 0)
 AutoPlayPiano.TextSize = 14.000
 AutoPlayPiano.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/Singularity5490/rgt/main/piano.lua'))()
 end)
 
 Admin.Name = "Admin"
@@ -52,7 +52,7 @@ Admin.Text = "Admin"
 Admin.TextColor3 = Color3.fromRGB(0, 0, 0)
 Admin.TextSize = 14.000
 Admin.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/Singularity5490/rgt/main/piano.lua'))()
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
 end)
 
 label_2.Name = "label"
